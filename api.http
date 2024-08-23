@@ -1,0 +1,15 @@
+###
+POST http://localhost:8080/register
+
+{
+    "username":"qq@qq.qq",
+    "password":"123"
+}
+
+###
+POST http://localhost:8080/login
+
+{
+    "username":"qq@qq.qq",
+    "password":"123"
+}
